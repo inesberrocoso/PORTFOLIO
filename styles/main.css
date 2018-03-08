@@ -1,0 +1,197 @@
+/* NOTE: font-family: 'Playfair Display', serif;
+font-family: 'Libre Baskerville', serif;
+font-family: 'Quicksand', sans-serif;
+*/
+
+
+body {
+  font-family: 'Playfair Display', serif;
+  background-color: #DDF2EE;
+  color: #0E644E;
+
+
+}
+
+header{
+  min-height: 100vh;
+background-image: url('images/heimano.jpg');
+background-repeat: no-repeat;
+background-position: top center;
+background-size: cover;
+display: flex;
+justify-content: center;
+align-items: center;
+color: white;
+text-align: center;
+font-family: 'Playfair Display', serif;
+
+}
+
+
+
+h3 {
+
+  font-family: 'Playfair Display', serif;
+font-style: italic;
+font-size: 1em;
+margin-top: -90px;
+padding-bottom: 0px;
+padding-left: 0px;
+
+}
+
+
+
+
+section {
+
+
+}
+
+.header-content-block {
+  background-color: #0C636A;
+      background: rgba(221,249,251,0.6);
+  padding:22px;
+}
+
+
+.header-content-block h1 {
+  font-size: 4em;
+}
+
+
+
+#bio {
+  background-color: #F4FDFE;
+  color: #12717B;
+padding-left: 200px;
+padding-right: 200px;
+padding-top: 200px;
+padding-bottom: 200px;
+font-family: 'Quicksand', sans-serif;
+
+
+
+
+}
+h1 {
+  font-family: 'Playfair Display', serif;
+font-size: 3em;
+text-align: center;
+padding-bottom: 100px;
+
+
+
+}
+
+.bio-content-block {
+    max-width: 960px;
+    margin: 0 auto;
+    columns: 2;
+  }
+
+
+
+#comp {
+  background:#12717B;
+  color: #F4FDFE;  }
+
+
+  h4 {
+font-family: 'Quicksand', sans-serif;
+font-style: italic;
+font-size: 12px;
+
+  }
+
+  h2 {
+    font-family: 'Playfair Display', serif;
+    font-size: 2em;
+
+  }
+
+  .comp-section-content {
+    display: flex;
+    justify-content: space-around;}
+
+
+
+.comp-content {
+    font-family: 'Playfair Display', serif;
+    margin: 20px;
+    width: auto;
+    background-color: #334444;
+    padding: 1em;
+    display: block;
+padding: 1em;
+float: right;
+
+
+
+}
+
+#portfolio {
+
+
+}
+
+a {
+  color: white;
+  font-size: 0,5em;
+  margin: 1em;
+    font-family: 'Playfair Display', serif;
+
+
+
+}
+
+.portfolio-section-content {
+ display: flex;
+  flex-wrap: wrap;
+ justify-content: space-around;
+
+}
+
+
+.portfolio-content-block {
+  padding: 22px;
+  max-width: 480px;
+  margin: 20px;
+  position: relative;
+  width: auto;
+
+
+
+}
+.portfolio-content-block img {
+  width: 100%; }
+
+
+
+
+
+
+
+
+
+
+footer{
+  background:#12717B;
+  color: #F4FDFE;
+
+
+}
+
+.address {  background:#12717B;
+  color: #F4FDFE;
+
+
+}
+
+
+
+.social-links {  background:#12717B;
+  color: #F4FDFE;
+
+
+}
